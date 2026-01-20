@@ -1,0 +1,14 @@
+{
+  "downloads": [
+    {
+      "id": "meteor-client",
+      "name": "Meteor Client",
+      "description": "Meteor Client for Minecraft 1.21.1",
+      "minecraftVersion": "1.21.1",
+      "fabricRequired": true,
+      "fileName": "meteor-client-1.21.1.jar",
+      "downloadUrl": "https://raw.githubusercontent.com/harveystent2-cmd/MoltenHub-Downloads/main/files/meteor-client-1.21.1.jar",
+      "sha256": "PUT_REAL_HASH_HERE"
+    }
+  ]
+}
